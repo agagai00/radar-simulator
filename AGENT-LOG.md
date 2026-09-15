@@ -9,7 +9,8 @@ Do not report a check as completed until it has been performed.
 ChatGPT helped define the radar simulation scope and three research
 questions. It also helped set up the GitHub CLI, SSH authentication,
 the Python environment, and the project folders. It also helped draft project
-instructions for AGENTS.md.
+instructions for AGENTS.md. It also helped make the README describing the planned scope,
+current status, folder organization, and environment setup.
 
 I ran the commands locally and created the files in VS Code.
 
