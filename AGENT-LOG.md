@@ -28,3 +28,25 @@ I ran the commands locally and created the files in VS Code.
 No simulation behavior or automated tests have been implemented yet.
 No experiments have been run and no research results are available.
 Issue #1 remains open.
+
+## 2026-10-14 — Initial research wiki draft — Issue #3
+
+### AI assistance
+Codex inspected the cloned wiki and drafted Home, Log, Design, Results,
+Reading, and Appendix on the 3-research-wiki task branch. The draft uses
+project files and conversation/course materials reviewed on 2026-10-10.
+Confirmed setup, proposed implementation, hypotheses, and reading suggestions
+are distinguished. No simulation results or user checks were invented.
+
+### Checks completed by Codex
+- Confirmed the wiki checkout initially contained only the default Home.md.
+- Confirmed both checkouts were clean before starting the task branches.
+- Checked the draft's required pages, local wiki links, and Git whitespace.
+
+### Review status
+The user approved committing the wiki draft and supplied the following check:
+
+Checked: Reviewed the six wiki pages in VS Code. Gave the details and instructions for creating the wiki pages
+
+This change records the reviewed wiki draft and AI assistance. No wiki changes
+have been published. No simulation tests were run for this documentation task.
