@@ -6,8 +6,8 @@ position accuracy.
 
 ## Status
 
-Project setup is in progress.
-The Python environment and starter folders are ready.
+The project setup has been merged, and the Python environment and starter folders are ready.
+Eleven supplied-source summaries have been reviewed and approved in the research notebook.
 Simulation code, automated tests, and experiments are not yet implemented.
 
 ## Research Questions
@@ -70,4 +70,5 @@ There is no runnable simulation yet.
 
 Each task is tracked through a GitHub Issue and a separate branch.
 Changes are reviewed before committing and merging.
-Research notes will be maintained in the project wiki.
+Research notes are maintained in the [project wiki](https://github.com/agagai00/radar-simulator/wiki).
+Reading notes distinguish approved sources from additional suggested reading.
