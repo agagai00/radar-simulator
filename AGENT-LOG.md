@@ -181,3 +181,15 @@ after verification. Baseline simulation implementation is the next separate
 task and has not been completed.
 
 Checked: I Reviewed the wiki pages, source summaries, and my personal notes in VS Code and now will start working on the baseline ismulation model and will do more research if needed
+
+## 2026-11-26 - Baseline simulation - Issue #5
+
+The project author implemented all three baseline simulation functions
+and restored their original code on `5-baseline-simulation`.
+
+Codex added the automated tests and pytest import configuration and updated
+the README. Codex reran `python -B -m pytest -p no:cacheprovider` against the
+author's implementation using the Windows project virtual environment
+(Python 3.14.4, pytest 9.1.1). All five tests passed.
+
+Checked: I implemented and reviewed the Issue #5 changes and confirmed all five tests pass.

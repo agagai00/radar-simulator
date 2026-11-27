@@ -8,7 +8,11 @@ position accuracy.
 
 The project setup has been merged, and the Python environment and starter folders are ready.
 Eleven supplied-source summaries have been reviewed and approved in the research notebook.
-Simulation code, automated tests, and experiments are not yet implemented.
+The original baseline implementation is credited to the project author,
+who reported that their earlier work did not save. The restored baseline
+models constant-velocity motion, adds optional seeded Gaussian noise on each
+measurement update, holds the latest measurement between updates, and
+computes Euclidean position error at every step.
 
 ## Research Questions
 
@@ -54,7 +58,14 @@ Check the installed packages:
 python -c "import numpy, matplotlib, pytest; print('Environment ready')"
 ```
 
-There is no runnable simulation yet.
+Run the baseline tests from the repository root:
+
+```bash
+python -m pytest
+```
+
+Five tests passed in the Windows project environment using Python 3.14.4
+and pytest 9.1.1.
 
 ## Project Organization
 
